@@ -1,0 +1,75 @@
+/*
+* Sara Bobiak
+* November 7, 2017
+* CSS Practice
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+
+body { 
+     font-family: "Courier New", Courier, monospace;
+     
+     background-color: tan ;
+  
+  
+}
+h1 
+   {
+   h1 {
+	font-family: Arial, Helvetica, sanc-serif;
+    color: red;
+    font-size: 160%;
+    background-color: White
+    text-align: center;
+}
+/* this makes the h1 red and align in the center*/   
+h2 {
+	font-family: Arial, Helvetica, sanc-serif;
+	color: green;
+    font-size: 100%;
+    background-color: White;
+}
+/* this makes h2 green*/
+p {
+	font-family: Arial, Helvetica, sanc-serif;
+	font-size: 70%;
+
+}
+body {
+width: 950px;
+margin: auto;
+}
+img {
+	border: green;
+	border: 20px dashed #808080;
+	border: 6px inset;
+}
+*{ margin: 0;
+	padding:0;
+}
+h3 {
+	color: red;
+	font-size: 50%;
+	text-align: right
+}
+/* this makes the h3 red and align towards the right*/  
+a:link {
+	color: blue; } 
+/*This allows the links to turn a different color when your mouse is over them */
+a:hover, a:focus {
+	color: purple;
+ }
+
+footer {
+	color: red;
+	border-top: 5px solid red;
+	font-size: 60%;
+}
